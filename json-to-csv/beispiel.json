@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Max Mustermann",
+    "email": "max@example.com",
+    "stadt": "Berlin"
+  },
+  {
+    "id": 2,
+    "name": "Erika Mustermann",
+    "email": "erika@example.com",
+    "stadt": "München"
+  },
+  {
+    "id": 3,
+    "name": "John Doe",
+    "email": "john@example.com",
+    "stadt": "Hamburg"
+  }
+]
