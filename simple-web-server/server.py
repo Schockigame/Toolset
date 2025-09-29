@@ -1,7 +1,7 @@
 import http.server
 import socketserver
 import sys
-s
+
 # Standardport, falls keiner angegeben wird
 PORT = 8000
 
