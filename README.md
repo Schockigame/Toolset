@@ -18,9 +18,16 @@ Hier ist eine Übersicht aller verfügbaren Tools in diesem Repository:
 | Tool                 | Sprache/Technologie | Beschreibung                                       |
 | -------------------- | ------------------- | -------------------------------------------------- |
 | **📁 File Organizer** | Python              | Sortiert Dateien in einem Ordner nach ihrem Typ.     |
-| **✏️ Bulk Renamer** | Bash                | Benennt mehrere Dateien auf einmal um.             |
 | **🔗 URL Checker** | Python              | Überprüft den HTTP-Status einer Liste von URLs.    |
+| **💾 Large File Finder** | Bash | Findet und listet die 10 Größten dateien auf.         |
 | **🔒 Password Gen** | JavaScript (Node.js)| Generiert sichere, zufällige Passwörter.         |
+| **🖼️ Image Resizer** | Python | Passt die Größe aller Bilder in einem Ordner an.         |
+| **🔄 JSON to CSV** | Python | Convertiert JSON-Dateien in CSV-Dateien.      |
+| **📝 Markdown to HTML** | Python | Convertiert Markdown-Dateien in HTML-Dateien.      |
+| **🌐 Simple Webserver** | Python | Erstellt einen einfachen WebServer.        |
+| **🩺 System-Health** | Bash / Powershell | Zeigt die CPU, RAM und Festplatten auslastung.     |
+| **☁️ Weather-CLI** | Python | Einfache Wetter abfrage.        |
+| **▶️ Youtube Transcript** | Python | Gibt das Transkript eines Youtube-Videos wieder.       |
 
 ---
 
