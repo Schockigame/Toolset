@@ -3,6 +3,7 @@
 Ein einfaches Bash-Skript bzw. Powershell-Skript, das eine schnelle Übersicht über die wichtigsten Metriken deines Systems (CPU, RAM, Festplatte) anzeigt.
 
 **Hinweis:** 
+
 Für Linux Systeme lade die 'health.sh' datei runter. 
 
 Für Windows lade die 'system_report.ps1' datei runter.
