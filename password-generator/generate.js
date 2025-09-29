@@ -30,8 +30,7 @@ function generatePassword(length = 16, useSymbols = true) {
   console.log(`Dein sicheres Passwort: ${password}`);
 }
 
-// Lese Argumente aus der Kommandozeile
-// Beispiel: node generate.js 20 --no-symbols
+
 const args = process.argv.slice(2);
 const lengthArg = parseInt(args[0], 10) || 16;
 const useSymbolsArg = !args.includes('--no-symbols');
