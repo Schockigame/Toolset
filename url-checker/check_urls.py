@@ -19,15 +19,15 @@ def check_urls():
         try:
             response = requests.get(url, timeout=5)
             if response.status_code == 200:
-                print(f"✅ [200 OK] {url}")
+                print(f"[200 OK] {url}")
             else:
-                print(f"⚠️ [{response.status_code}] {url}")
+                print(f"[{response.status_code}] {url}")
         except requests.ConnectionError:
-            print(f"❌ [FEHLER] {url} - Verbindung fehlgeschlagen.")
+            print(f"[FEHLER] {url} - Verbindung fehlgeschlagen.")
         except requests.Timeout:
-            print(f"❌ [FEHLER] {url} - Timeout.")
+            print(f"[FEHLER] {url} - Timeout.")
         except requests.RequestException as e:
-            print(f"❌ [FEHLER] {url} - {e}")
+            print(f"[FEHLER] {url} - {e}")
 
 if __name__ == "__main__":
     check_urls()
