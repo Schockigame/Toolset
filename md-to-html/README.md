@@ -14,4 +14,4 @@ Dieses Skript konvertiert eine Markdown-Datei (`.md`) in eine eigenständige HTM
     ```bash
     python convert.py deine-datei.md
     ```
-    Das Skript erstellt automatisch `deine-datei.html` im selben Ordner.
+    Das Skript erstellt automatisch die Datei `deine-datei.html` im selben Ordner.
