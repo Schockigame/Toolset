@@ -1,6 +1,7 @@
 # File Organizer
 
 Dieses Python-Skript sortiert automatisch Dateien in einem Ordner in vordefinierte Kategorien (Bilder, Dokumente, etc.).
+Alle nicht in den Kategorien definierten Dateien werden in den `REST`-Ordner verschoben.
 
 ## Benutzung
 
