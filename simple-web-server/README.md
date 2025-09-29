@@ -12,7 +12,7 @@ Dieses Skript startet einen einfachen, lokalen Webserver in dem Verzeichnis, in 
     # Startet den Server auf dem Standard-Port 8000
     python server.py
     ```
-    ```
+    ```bash
     # Startet den Server auf einem anderen Port (z.B. 8080)
     python server.py 8080
     ```
