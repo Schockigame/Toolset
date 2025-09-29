@@ -1,7 +1,7 @@
 import pandas as pd
 import sys
 import os
-d
+
 def json_to_csv(input_file):
     """
     Konvertiert eine JSON-Datei in eine CSV-Datei.
