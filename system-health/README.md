@@ -4,6 +4,7 @@ Ein einfaches Bash-Skript bzw. Powershell-Skript, das eine schnelle Übersicht �
 
 **Hinweis:** 
 Für Linux Systeme lade die 'health.sh' datei runter. 
+
 Für Windows lade die 'system_report.ps1' datei runter.
 
 ## Benutzung Linux
