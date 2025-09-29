@@ -1,4 +1,3 @@
 https://www.google.com
 https://www.github.com
-https://www.google.com/search?q=https://www.eine-ungueltige-seite-xyz.com
-https://www.google.com/search?q=https://httpstat.us/404
+https://www.youtube.com
