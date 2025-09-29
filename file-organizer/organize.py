@@ -50,7 +50,7 @@ def organize_folder(path):
             category_path = os.path.join(path, "REST")
             os.makedirs(category_path, exist_ok=True)
             shutil.move(os.path.join(path, filename), os.path.join(category_path, filename))
-            print(f"Verschoben: {filename} -> {category}")
+            print(f"Verschoben: {filename} -> REST")
             moved = True
             
             
