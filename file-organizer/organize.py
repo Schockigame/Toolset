@@ -47,8 +47,13 @@ def organize_folder(path):
                 break
         
         if not moved:
-            print(f"Keine Kategorie für: {filename}")
-
+            category_path = os.path.join(path, "REST")
+            os.makedirs(category_path, exist_ok=True)
+            shutil.move(os.path.join(path, filename), os.path.join(category_path, filename))
+            print(f"Verschoben: {filename} -> {category}")
+            moved = True
+            
+            
     print("Organisation abgeschlossen!")
 
 
