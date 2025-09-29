@@ -17,4 +17,10 @@
     "email": "john@example.com",
     "stadt": "Hamburg"
   }
+  {
+    "id": 4,
+    "name": "Felix Mayr",
+    "email": "Felix@example.com",
+    "stadt": "Ingolstadt"
+  }
 ]
